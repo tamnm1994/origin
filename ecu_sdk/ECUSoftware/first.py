@@ -7,9 +7,14 @@ Edit 5
 Edit 6
 Edit 7
 Edit 8
+<<<<<<< HEAD
 Edit 10
 Edit 12
 Edit 13
 Edit 14
 Edit 15
 Edit 16
+=======
+Edit 13
+Edit 14
+>>>>>>> 2445169f78df6307591f2c49a2e1f21f6f852e3e
